@@ -27,6 +27,10 @@ To run the app, use the following command:
 
 This will open the Streamlit app in your browser.
 
+## Deployment
+
+This project is deployed on Streamlit Cloud: [https://langchain---chat-with-search-sb2wktnfnabifdbc9quppz.streamlit.app/](https://langchain---chat-with-search-sb2wktnfnabifdbc9quppz.streamlit.app/)
+
 ### Usage
 Enter your Groq API key in the sidebar.
 Chat with the assistant by typing questions in the chat box. You can ask about academic papers, Wikipedia content, or general search queries.
